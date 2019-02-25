@@ -1,5 +1,5 @@
 # PushToWNS
-Send push notifications to WNS for Windows 8/10 applications UWP [Windows Notification Services](https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/windows-push-notification-services--wns--overview). 
+Send push notifications to WNS for Windows 8/10 applications UWP using .NET CORE [Windows Notification Services] (https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/windows-push-notification-services--wns--overview). 
 # WNS (Windows Notification Service)
 Send push notifications from a .NET Core application to a Windows 8/10 (UWP) device using Windows Notification Services.
 # Pre-Requirements
